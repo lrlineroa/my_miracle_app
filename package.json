@@ -29,7 +29,7 @@
     "react-native-notification-listener-library": "file:react-native-notification-listener-library",
     "react-native-push-notification": "^3.1.9",
     "react-native-qrcode-scanner": "^1.2.3",
-    "react-native-reanimated": "^1.3.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-screens": "^1.0.0-alpha.23",
     "react-native-unimodules": "^0.7.0-rc.1",
     "react-navigation": "^4.0.10",
